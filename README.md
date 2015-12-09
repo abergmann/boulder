@@ -43,6 +43,10 @@ Arch Linux:
 
     sudo pacman -S libtool mariadb rabbitmq --needed
 
+openSUSE:
+
+    sudo zypper install libtool mariadb rabbitmq-server
+
 OS X:
 
     brew install libtool mariadb rabbitmq
