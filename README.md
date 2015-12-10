@@ -47,9 +47,9 @@ openSUSE:
 
     sudo zypper install libtool mariadb rabbitmq-server
 
-openSUSE Tumbleweed (pure rolling release version):
+openSUSE Tumbleweed: 
 
-  Tumbleweed comes already with go1.5.1 in the regular repository.
+  Tumbleweed (pure rolling release version) comes already with go1.5.1 in the regular repository.
  
     sudo zypper install libtool mariadb rabbitmq-server go
 
